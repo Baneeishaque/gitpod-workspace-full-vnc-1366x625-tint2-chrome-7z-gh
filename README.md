@@ -12,8 +12,9 @@
 
 [![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://ssh.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/Baneeishaque/gitpod-workspace-full-vnc-1366x625-tint2-chrome)
 
-### Tools
-#### Tint 2 : 16.7
-#### Google Chrome : 91.0.4472.77
+## Tools
+### Tint 2 : 16.7
+### Google Chrome : 91.0.4472.77
+### Github CLI : 1.10.3
 
 [//]: # "[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Baneeishaque/gitpod-workspace-full-vnc-1366x625-tint2-chrome)"
